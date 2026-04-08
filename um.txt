@@ -1,3 +1,4 @@
 Geek University
 Aula 42- desfazendo modificações utilizando checkout -- <file>.
 Esse arquivo foi o único correto e commitado, os outras alteraçoes foram desfeitas.
+alteração pra teste 2
