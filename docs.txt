@@ -1,1 +1,2 @@
 adicionando um novo arquivo para teste de branch
+adicionando mais um texto pra teste de fechamento do issue pelo commit
