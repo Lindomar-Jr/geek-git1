@@ -1,3 +1,4 @@
 texto pra teste
+texto pra commit e teste usando a interface pelo clone 02
 2+2+2+2+2+2+2
 1+1+1+1+1
